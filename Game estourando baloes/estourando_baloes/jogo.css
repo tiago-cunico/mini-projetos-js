@@ -1,0 +1,42 @@
+.div1{
+    float: left;
+    width: auto;
+    height: 500px;
+    background: #FFF;
+    border: solid 1px #a2a2a2;
+    margin-right: 5px;
+}
+.tabela_cronometro{
+    width: 140px;
+    height: 132px;
+    background: url(imagens/cronometro.png);
+    text-align: center;
+}
+.cenario{
+    float: left;
+    width: 600px;
+    height: 500px;
+    background: url(imagens/cenario.png); background-position: bottom;
+}
+#cronometro{
+    color: red;
+    font-size: 30px;
+
+}
+.td_cronomento{
+    background: url(imagens/cronometro.png);
+
+}
+#baloes_inteiros{
+    font-size: 40px;
+}
+#baloes_estourados{
+    font-size: 40px;
+}
+.img_tela_inicio{
+    height: 120px;
+    width: 100px;
+    margin-bottom: 600px;
+    margin-left: 600px;
+    display: flex;
+}
